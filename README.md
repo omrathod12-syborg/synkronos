@@ -74,4 +74,38 @@ HTML · CSS · JavaScript
 
 To build a system where **accountability is built-in**, and team success is driven by measurable contribution rather than assumption.
 ## ⚙️ How It Works (System Flow)
+ -----
+ ## 🤖 Use of AI
+
+AI tools were used as a **development assistant** to accelerate the building process and improve iteration speed.
+
+- Assisted in structuring UI components and layout  
+- Helped refine logic for applicant evaluation and scoring  
+- Used for debugging, refactoring, and improving code clarity  
+- Supported rapid prototyping of features and interaction flows  
+
+All core ideas, system design, and feature decisions were **conceptually defined and controlled manually**, with AI acting as a support tool rather than a replacement for development.
+
+---
+
+## 🧠 Approach
+
+The project was built through rapid iteration:
+
+- Idea → Prototype → Refine → Improve  
+- Continuous adjustments to logic, flow, and UI  
+- Focus on building a **working system**, not just static screens  
+
+This approach allowed fast development while maintaining control over the final system behavior.
+---
+## 🤖 Use of AI
+
+AI tools were used as a **development assistant** to accelerate the building process and improve iteration speed.
+
+- Assisted in structuring UI components and layout  
+- Helped refine logic for applicant evaluation and scoring  
+- Used for debugging, refactoring, and improving code clarity  
+- Supported rapid prototyping of features and interaction flows  
+
+All core ideas, system design, and feature decisions were **conceptually defined and controlled manually**, with AI acting as a support tool rather than a replacement for development.
 
